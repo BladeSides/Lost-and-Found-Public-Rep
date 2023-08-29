@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85f4138d64ab5b245b76e450a6bf3f8f, type: 3}
+  m_Name: TeleportLocations
+  m_EditorClassIdentifier: 
+  Locations:
+  - Key: LivingRoomToOutside
+    TargetLocation: {x: -54.64, y: 0.0756644, z: -2.5}
+  - Key: CameraOutside
+    TargetLocation: {x: -51, y: 5.55, z: -10.23}
+  - Key: OutsideToLivingRoom
+    TargetLocation: {x: -6.28, y: 0.0756644, z: 2.61}
+  - Key: CameraLivingRoom
+    TargetLocation: {x: 0, y: 5.55, z: -10.23}
+  - Key: LivingRoomToBedRoom
+    TargetLocation: {x: 26.5, y: 0.0756644, z: -2.5}
+  - Key: CameraBedRoom
+    TargetLocation: {x: 32, y: 5.55, z: -10.23}
+  - Key: BedRoomToLivingRoom
+    TargetLocation: {x: 5.28, y: 0.0756644, z: 2.66}
+  - Key: LivingRoomToBathRoom
+    TargetLocation: {x: 62.05, y: 0.0756644, z: -0.19}
+  - Key: BathRoomToLivingRoom
+    TargetLocation: {x: 6.12, y: 0.0756644, z: -1.2}
+  - Key: CameraBathRoom
+    TargetLocation: {x: 65.1, y: 5.19, z: -8.09}
+  - Key: PlayerWakeUpLocation
+    TargetLocation: {x: 39.642, y: 0.211, z: -0.744}
+  - Key: PlayerWakeUpRotationSpriteAnimator
+    TargetLocation: {x: 150, y: -370, z: -200}
+  - Key: CameraBreakdown
+    TargetLocation: {x: 94, y: 5.55, z: -10.23}
+  - Key: BreakdownLivingRoom
+    TargetLocation: {x: 99.28, y: 0.0756644, z: -0.41}

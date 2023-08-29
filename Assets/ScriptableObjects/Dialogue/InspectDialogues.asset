@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 225515468d83da74084f6b5f30e7484f, type: 3}
+  m_Name: InspectDialogues
+  m_EditorClassIdentifier: 
+  Dialogues:
+  - Key: Chair
+    Value: Table for two, chair for one, and dinner for none.
+  - Key: Table
+    Value: Table for two, chair for one, and dinner for none.
+  - Key: LivingRoomToBedRoom
+    Value: It leads to the bedroom.
+  - Key: LivingRoomToOutside
+    Value: It leads to the outside.
+  - Key: LivingRoomToBathRoom
+    Value: It leads to the bathroom.
+  - Key: Fridge
+    Value: There seems to be something rotten inside the fridge.
+  - Key: Shelf
+    Value: A small shelf underneath a big doggo.
+  - Key: TV
+    Value: If I wanted to see more depressing news, I'd write a novel.
+  - Key: Lamp
+    Value: It might not brighten up my life, but it can sure brighten up my room.
+  - Key: Trash
+    Value: I'm too tired to clean up the trash right now.
+  - Key: Swing
+    Value: It's a swing. I used it a lot when I was young.
+  - Key: FenceGate
+    Value: It leads to the real world. Ew.
+  - Key: OutsideToLivingRoom
+    Value: It leads back to my living room.
+  - Key: Almira
+    Value: It's my closet. I should clean it up.
+  - Key: Computer
+    Value: I don't feel like using my computer right now.
+  - Key: Curtain
+    Value: I hate going out.
+  - Key: Bed
+    Value: I don't feel like sleeping right now.
+  - Key: BedRoomToLivingRoom
+    Value: It leads to the living room.
+  - Key: BedRoomLight
+    Value: I sleep better when the lights are on.
+  - Key: WashingMachine
+    Value: Dirty clothes go in, clean clothes come out.
+  - Key: Shower
+    Value: Dirty human goes in, dirty human come out.
+  - Key: Sink
+    Value: It's almost as if I can see inside myself.
+  - Key: Toilet
+    Value: I don't feel like using it right now.
+  - Key: BATH_Light
+    Value: It's easier to shower once I can't see myself.
+  - Key: BathRoomToLivingRoom
+    Value: It leads to the living room.
+  - Key: LivingRoomToBathRoom.
+    Value: It leads to the bathroom.
